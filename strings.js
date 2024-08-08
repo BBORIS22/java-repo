@@ -1,0 +1,12 @@
+const Name = 'john';
+const Age = 30;
+
+// concatenation
+console.log('My name is ' + Name +' and my age is ' + Age );
+
+// template strings
+const hello = `My name is ${Name} and I am  ${Age}`;
+console.log(hello);
+
+const s = 'technology, computers, it, code';
+console.log (s.split(','));
