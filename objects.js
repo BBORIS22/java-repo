@@ -13,5 +13,5 @@ const person = {
 // const {firstName,lastName, address:{city}} = person;
 // console.log(city); 
 
-person.email ='john@gmail.com' 
+person.email ='john@gmail.com';
 console.log (person);
