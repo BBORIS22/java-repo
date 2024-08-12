@@ -18,3 +18,8 @@ const todos = [
 // console.log (todos[1].text); 
 const todoJSON = JSON.stringify(todos);
 console.log(todoJSON);
+
+// loops on it
+for (let todo of todos) {
+    console.log(todo.text);
+}

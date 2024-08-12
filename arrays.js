@@ -7,3 +7,5 @@ fruits.pop(),
 // console.log(fruits.indexOf('pears'));
 fruits.sort();
 console.log(fruits);
+
+
