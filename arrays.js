@@ -3,6 +3,7 @@ fruits [3] = 'grapes';
 fruits.push('mangos');
 fruits.unshift('strawberries')
 fruits.pop(),
-console.log(Array.isArray('hello'));
-console.log(fruits.indexOf('pears'));
+// console.log(Array.isArray('hello'));
+// console.log(fruits.indexOf('pears'));
+fruits.sort();
 console.log(fruits);
