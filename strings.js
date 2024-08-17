@@ -1,5 +1,5 @@
-const Name = 'john';
-const Age = 30;
+const Name = 'boris';
+const Age = 22;
 
 // concatenation
 console.log('My name is ' + Name +' and my age is ' + Age );
