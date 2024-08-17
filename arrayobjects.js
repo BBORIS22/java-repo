@@ -23,3 +23,7 @@ console.log(todoJSON);
 for (let todo of todos) {
     console.log(todo.text);
 }
+// forEach, map, filter
+todos.forEach(function() {
+    console.log(todo.text);
+});
