@@ -12,7 +12,7 @@ console.log(`for loop number : ${i}`);
 
 
 let codes = {
-    "+49": "Germany",
+    "+49": "belgium",
     "+41": "Switzerland",
     "+44": "Great Britain",
     "+1": "USA"
