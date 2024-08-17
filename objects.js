@@ -13,7 +13,7 @@ const person = {
 // const {firstName,lastName, address:{city}} = person;
 // console.log(city); 
 
-person.email ='john@gmail.com';
+person.email ='boriskirenga53@gamil.com';
 console.log (person);
 
 let user = {
