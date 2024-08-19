@@ -1,5 +1,5 @@
-const x = 20 ;
+const z = 20 ;
 const y = 10 ;
-if(x >20 || y <11 ) {
-    console.log('x is greater than 20 and y is less than 11');
+if(z >20 || y <11 ) {
+    console.log('z is greater than 20 and y is less than 11');
 }

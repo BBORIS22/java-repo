@@ -4,6 +4,6 @@ score = 10;
 console.log(score);
 
 // ------> error
-const age = 32;
+let age = 32;
 age = 31;
-console.log(age); error
+console.log(age); 
