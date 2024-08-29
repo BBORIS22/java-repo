@@ -18,3 +18,7 @@ const ul = document.querySelector('.items');
 ul.firstElementChild.textContent = 'hello';
 ul.children[1].innerText = 'boris';
 ul.lastElementChild.innerHTML = '<h1>item3<h1\>'
+
+const btn = document.querySelector('.btn');
+btn.style.background = 'red';
+
